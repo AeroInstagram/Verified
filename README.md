@@ -10,7 +10,7 @@ Added AeroInsta Settings 》Verified account 》**Custom blue tick URL address**
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS01.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
@@ -20,7 +20,7 @@ After typing the name of your project (you can write whatever you want), click t
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS02.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
@@ -37,7 +37,7 @@ After you have finished writing, click the green button named "Commit new file".
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS03.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
@@ -45,27 +45,39 @@ After you have finished writing, click the green button named "Commit new file".
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS04.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
 6. Click on the name of your file on the next screen.
 
+<div align="center">
+
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS05.png" width="" height="">](https://github.com/ikx7a)
+
+</div>
+
 7. Click on the **RAW** button on the next screen.
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS06.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
 8. After clicking the RAW button, copy the link of the opened site.
 
+<div align="center">
+
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS07.png" width="" height="">](https://github.com/ikx7a)
+
+</div>
+
 9. Activate the AeroInsta Settings 》Verified account 》**AeroInsta Official Servers** -- 》"**I will use my own server/URL link.**" option and paste the link you copied to the AeroInsta Settings 》 Verified account 》 **Enter your blue tick URL address**. option.
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS08.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
@@ -73,7 +85,7 @@ After you have finished writing, click the green button named "Commit new file".
 
 <div align="center">
 
-[<img src="" width="" height="">](https://github.com/ikx7a)
+[<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS9.png" width="" height="">](https://github.com/ikx7a)
 
 </div>
 
