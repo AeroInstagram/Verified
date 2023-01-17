@@ -87,7 +87,4 @@ After you have finished writing, click the green button named "Commit new file".
 
 [<img src="https://github.com/AeroInstagram/Verified/blob/main/Assets/SS9.png" width="" height="">](https://github.com/ikx7a)
 
-</div>
-
-🔰Download AeroInsta 🔰
-https://aeroinsta.com
+[Download AeroInsta](https://aeroinsta.com)
