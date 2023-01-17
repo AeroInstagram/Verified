@@ -31,7 +31,7 @@ In the large space just below, write the usernames you want the blue tick (verif
 You can write as much as you want, for example:
 `["ikx7.a","ijerryy_","kx.writer"]`
 
-You can view the sample URL by clicking [here]().
+You can view the sample URL by clicking [here](https://raw.githubusercontent.com/ikx7a/Verified/main/ikx7a.json).
 
 After you have finished writing, click the green button named "Commit new file".
 
